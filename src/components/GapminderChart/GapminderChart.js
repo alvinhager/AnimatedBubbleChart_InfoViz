@@ -13,8 +13,6 @@ const GapminderChart = ({ sliderValue, dropDownValues }) => {
     const anchor = useRef();
     const hasMounted = useRef(false);
 
-    //console.log(data);
-
     // margin, width and height
     const container_width = 2400;
     const container_height = 1000;
@@ -357,8 +355,7 @@ const GapminderChart = ({ sliderValue, dropDownValues }) => {
 
     function getCircleXPos(d) {
         const data = getCircleData(d, dropDownValues[0], sliderValue);
-        //console.log("data" + data);
-        //console.log("data " + data);
+
         if (data !== -5) {
             return xScale(data);
         }
@@ -368,8 +365,8 @@ const GapminderChart = ({ sliderValue, dropDownValues }) => {
 
     function getCircleYPos(d) {
         const data = getCircleData(d, dropDownValues[1], sliderValue);
-        //console.log("data" + data);
-        console.log("data " + data);
+
+
         if (data !== -5) {
             return yScale(data);
         }
@@ -380,7 +377,7 @@ const GapminderChart = ({ sliderValue, dropDownValues }) => {
     function getCircleSize(d) {
         const data = getCircleData(d, dropDownValues[2], sliderValue);
 
-        console.log("data " + data);
+
         if (data !== -5) {
             return rScale(data);
         }
