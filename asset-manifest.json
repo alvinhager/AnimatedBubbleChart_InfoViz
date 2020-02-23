@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/IVISProject2AlvinHager/static/css/main.2af7bc83.chunk.css",
+    "main.css": "/IVISProject2AlvinHager/static/css/main.2efa2640.chunk.css",
     "main.js": "/IVISProject2AlvinHager/static/js/main.2563419f.chunk.js",
     "main.js.map": "/IVISProject2AlvinHager/static/js/main.2563419f.chunk.js.map",
     "runtime-main.js": "/IVISProject2AlvinHager/static/js/runtime-main.1093bbbd.js",
@@ -9,17 +9,17 @@
     "static/js/2.277087f8.chunk.js": "/IVISProject2AlvinHager/static/js/2.277087f8.chunk.js",
     "static/js/2.277087f8.chunk.js.map": "/IVISProject2AlvinHager/static/js/2.277087f8.chunk.js.map",
     "index.html": "/IVISProject2AlvinHager/index.html",
-    "precache-manifest.0a3856234c6b3cb6e2b0deafbb4c8674.js": "/IVISProject2AlvinHager/precache-manifest.0a3856234c6b3cb6e2b0deafbb4c8674.js",
+    "precache-manifest.f1f6f301b92162af284725408ed1f745.js": "/IVISProject2AlvinHager/precache-manifest.f1f6f301b92162af284725408ed1f745.js",
     "service-worker.js": "/IVISProject2AlvinHager/service-worker.js",
     "static/css/2.47e06e2e.chunk.css.map": "/IVISProject2AlvinHager/static/css/2.47e06e2e.chunk.css.map",
-    "static/css/main.2af7bc83.chunk.css.map": "/IVISProject2AlvinHager/static/css/main.2af7bc83.chunk.css.map",
+    "static/css/main.2efa2640.chunk.css.map": "/IVISProject2AlvinHager/static/css/main.2efa2640.chunk.css.map",
     "static/js/2.277087f8.chunk.js.LICENSE.txt": "/IVISProject2AlvinHager/static/js/2.277087f8.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.1093bbbd.js",
     "static/css/2.47e06e2e.chunk.css",
     "static/js/2.277087f8.chunk.js",
-    "static/css/main.2af7bc83.chunk.css",
+    "static/css/main.2efa2640.chunk.css",
     "static/js/main.2563419f.chunk.js"
   ]
 }
