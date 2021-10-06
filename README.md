@@ -5,7 +5,7 @@ This project replicates Hans Rosling's famous animated bubble chart with data ta
 The data used is from Gapminder and from World Value survey data. 
 
 Here is a video of example usage: 
-https://user-images.githubusercontent.com/25433576/136210119-a2c1ee31-3925-47fd-ac34-761576aad126.mp4
+[example usage](https://user-images.githubusercontent.com/25433576/136210119-a2c1ee31-3925-47fd-ac34-761576aad126.mp4)
 
 
 
